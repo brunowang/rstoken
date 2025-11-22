@@ -1,4 +1,4 @@
-use crate::handler::healthy::healthy;
+use crate::handler::healthy_handler::healthy;
 use crate::model::app_model::AppState;
 use axum::{routing::post, Router};
 use std::sync::Arc;

@@ -1,1 +1,1 @@
-pub mod healthy;
+pub mod healthy_handler;
